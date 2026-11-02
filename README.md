@@ -66,6 +66,12 @@ python3 play.py "Song Title" --artist "Artist Name" --lrc song.lrc
 python3 play.py "Song Title" song.mp3 --artist "Artist Name" --silent
 ```
 
+### example/contoh langsung
+
+```bash
+ python3 play.py "Merry Christmas, i miss you" --artist "Alex Crichton"  
+```
+
 ## ⌨️ Controls
 
 | Key | Action |
